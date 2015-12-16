@@ -1,0 +1,25 @@
+#khaled {
+    padding-top: 36px;
+    padding-right: 12px;
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Great Vibes', cursive;
+}
+
+#phone {
+    text-align: center;
+}
+
+#appstore {
+    width: 183px;
+    margin: auto;
+}
+
+#button {
+    float: left;
+}
+
+#mail {
+    padding-bottom: 2px;
+    float: left;
+}
